@@ -10,4 +10,3 @@ int main()
     cout << "planing end" << endl;
     return 0;
 }
-
