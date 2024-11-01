@@ -1,0 +1,10 @@
+# 查看工作区状态
+git status
+# 设置用户
+git config --global user.email "yibo.sun2005@outlook.com"
+# 将文件添加到暂存区
+git add .
+# 将暂存区的文件提交到本地仓库
+git commit -m "basic mode"
+# 将本地仓库的文件推送到远程仓库
+git push
